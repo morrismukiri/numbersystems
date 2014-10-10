@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Number Systems</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Convert">Convert</string>
+    <string name="convertBtnHint">Touch to convert</string>
+    <string name="decLblText">Decimal</string>
+    <string name="decAnswer">Base 10 Answer</string>
+    <string name="octLblText">Octal</string>
+    <string name="octAnswer">Base 8 Answer</string>
+    <string name="hexLblText">Hexadecimal</string>
+    <string name="hexAnswer">Base 16 Answer</string>
+    <string name="binLblText">Binary</string>
+    <string name="binAnswer">Base 2 Answer</string>
+
+</resources>
